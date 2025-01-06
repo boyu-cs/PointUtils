@@ -23,6 +23,6 @@ def calculate_average_points(folder_path):
     print(f"所有 PCD 文件的平均点数: {average_points}")
 
 
-# 这里输入你的文件夹路径
+# edit this path
 folder_path = "/home/mmtlab/Desktop/code/RandLA-Net-PyTorch/Paiguang/preprocess_data/input_0.060"
 calculate_average_points(folder_path)
